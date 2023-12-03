@@ -1,4 +1,4 @@
-# Hospital-data
+# Web Scraping Tool
 
 Our project focuses on web scraping to extract specific information from various hospital websites in and around Coimbatore. We've gathered data from three hospitals: Sri Ramakrishna, KMCH, and Sheela Hospital. This information is organized as dictionaries within a JSON file, enabling efficient retrieval and display of required details for users.
 
